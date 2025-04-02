@@ -30,7 +30,7 @@
 <h2>📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArunNegi112&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArunNegi112&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ArunNegi112&theme=dark)](https://git.io/streak-stats)
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunNegi112&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
