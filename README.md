@@ -25,12 +25,8 @@
   <a target="_blank" href="https://www.linkedin.com/in/arunnegi-tech">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a target="_blank" href="https://www.hackerrank.com/profile/arunnegi9625">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
 </p>
 
-<h2>📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArunNegi112&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=ArunNegi112&theme=dark" alt="GitHub Streak" /></a>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunNegi112&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
