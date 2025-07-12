@@ -7,37 +7,24 @@
   <a target="_blank" href="https://www.python.org/">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="42" height="42" />
   </a>
-  
+
   <!-- NumPy -->
   <a target="_blank" href="https://numpy.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="42" height="42" />
   </a>
-  
+
   <!-- Pandas -->
   <a target="_blank" href="https://pandas.pydata.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="42" height="42" />
   </a>
 
-  <!-- Scikit-learn -->
+  <!-- Scikit-learn (Improved) -->
   <a target="_blank" href="https://scikit-learn.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Scikit-learn_logo_without_text.svg" alt="Scikit-learn" width="42" height="42" />
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="100" height="42" />
   </a>
 
   <!-- Git -->
   <a target="_blank" href="https://git-scm.com/">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" />
-  </a>
-</p>
-
-<h2>🌐 Profiles</h2>
-<p>
-  <a target="_blank" href="https://www.kaggle.com/arunnegi1112">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/arunnegi-tech">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a target="_blank" href="https://www.hackerrank.com/profile/arunnegi9625">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
