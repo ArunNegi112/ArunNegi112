@@ -52,7 +52,7 @@ EDA · Statistical analysis · Data cleaning · Dashboard design · KPI storytel
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-SQL · Schema design · ETL pipelines (staging → analytics layers) · Views & analytical queries
+SQL · Schema design · ETL pipelines · Views & analytical queries
 
 ### 🔧 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
