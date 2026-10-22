@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arun Negi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=20BEFF&center=true&vCenter=true&width=620&lines=Learning+about+data+without+losing+my+mind;AI%2FML+Engineer+in+the+making;Turning+raw+data+into+decisions+and+dashboards" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=20BEFF&center=true&vCenter=true&width=620&lines=Learning+about+data+without+losing+my+mind;Turning+raw+data+into+decisions+and+dashboards" alt="Typing SVG" />
 </p>
 
 <p align="center">
