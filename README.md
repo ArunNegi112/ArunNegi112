@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arun Negi</h1>
+<h1 align="center">Hi, I'm Arun Negi</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=20BEFF&center=true&vCenter=true&width=620&lines=Learning+about+data+without+losing+my+mind;AI%2FML+Engineer+in+the+making;Turning+raw+data+into+decisions+and+dashboards" alt="Typing SVG" />
@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-### 🧠 AI, GenAI & Machine Learning
+### AI, GenAI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2E7D6B?style=flat-square&logo=langchain&logoColor=white)
@@ -37,7 +37,7 @@
 
 LLM pipelines · Agentic AI · Classical Machine Learning · ANNs & CNNs · Computer vision
 
-### 📈 Data Analysis & Business Intelligence
+### Data Analysis & Business Intelligence
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
@@ -48,13 +48,13 @@ LLM pipelines · Agentic AI · Classical Machine Learning · ANNs & CNNs · Comp
 
 EDA · Statistical analysis · Data cleaning · Dashboard design · KPI storytelling · End-to-end analysis projects
 
-### 🗄️ Databases & Data Engineering
+### Databases & Data Engineering
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 SQL · Schema design · ETL pipelines · Views & analytical queries
 
-### 🔧 Tools & Workflow
+### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -68,6 +68,6 @@ SQL · Schema design · ETL pipelines · Views & analytical queries
 
 ---
 <p align="center">
-  <i>If it has data in it, I'm probably curious about it. 🤝</i><br/>
+  <i>If it has data in it, I'm probably curious about it. </i><br/>
   <a href="mailto:arunsinghnegi112@gmail.com">arunsinghnegi112@gmail.com</a>
 </p>
